@@ -1,0 +1,16 @@
+@media(max-width:1030px){
+    body{
+    display:flex;
+    flex-direction: column;
+    height:100vh;
+}
+}
+body {
+    font-family: 'Londrina Shadow', serif;
+    font-size: 48px;
+    color: white;
+    background-image: url("https://images7.alphacoders.com/626/626067.jpg");
+    background-repeat: no-repeat;
+    height: 1920px;       
+    width: 1200px;
+}
